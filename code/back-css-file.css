@@ -1,0 +1,24 @@
+    @charset "UTF-8";
+    body {
+        color: rgb(21, 255, 0);
+        background-image: url(/images/cherry\ blossom\ background.jpg);
+    }
+    
+    img {
+        border: 8px solid wheat
+    }
+    h2 {
+       font-family: 'Georgia', 'Trebuchet MS', cursive;
+        color: turquoise;
+        font-weight: bold;
+    }
+    p{
+        font-style: italic;
+        font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    }
+    #extras {
+            color: mediumblue
+    }
+    .caption p {
+        font-weight: bolder;
+    }
